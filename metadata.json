@@ -1,0 +1,6 @@
+{
+  "name": "Salud, Enfermedades y Sustancias",
+  "description": "Presentación interactiva y académica sobre salud, clasificación de enfermedades, impacto biológico, sustancias y prevención para Ciencias Naturales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
